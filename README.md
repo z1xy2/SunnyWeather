@@ -1,2 +1,2 @@
 # SunnyWeather
-android developling
+android developling based on MVVM fragement
